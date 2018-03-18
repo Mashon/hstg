@@ -1,2 +1,2 @@
-require './app'
+require './hashtagger.rb'
 run Sinatra::Application
